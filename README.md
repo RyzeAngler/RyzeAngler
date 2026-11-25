@@ -1,4 +1,4 @@
-# Hi, I'm Ryze Wu
+# Hi, I'm Wesley Wu
 
 AI Agent builder focused on Agent systems, Agent Infra, and developer tooling.
 
